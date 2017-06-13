@@ -1,0 +1,29 @@
+{
+  "name": "next-js-noob-ssr-code-splitting",
+  "version": "1.0.0",
+  "description": "NextJS Noob with SSR, HMR and Code-splitting",
+  "main": "index.js",
+  "keywords": [
+    "nextjs"
+  ],
+  "author": "adarshsingh1407",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^3.0.0-beta3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.6.1",
+    "webpack-bundle-analyzer": "^2.8.2",
+    "webpack-manifest-plugin": "^1.1.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.28.0",
+    "preload-webpack-plugin": "^1.2.2"
+  }
+}

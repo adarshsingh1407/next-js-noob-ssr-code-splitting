@@ -1,0 +1,14 @@
+{
+  "bundles/pages/_document.js.js": "bundles/pages/_document.js",
+  "bundles/pages/_error.js.js": "bundles/pages/_error.js",
+  "bundles/pages/index.js.js": "bundles/pages/index.js",
+  "chunks/4821787e-bb5d-480c-88f4-bc732a6efbe0.js.js": "chunks/4821787e-bb5d-480c-88f4-bc732a6efbe0.js.fcc277a2.chunk.js",
+  "commons.js": "commons.js",
+  "dist/components/hello.js": "dist/components/hello.js",
+  "dist/components/hello2.js": "dist/components/hello2.js",
+  "dist/pages/_document.js?entry": "dist/pages/_document.js",
+  "dist/pages/_error.js?entry": "dist/pages/_error.js",
+  "dist/pages/index.js?entry": "dist/pages/index.js",
+  "main.js.js": "main.js",
+  "vendor.js": "vendor.js"
+}
